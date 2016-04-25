@@ -1,0 +1,19 @@
+{
+  "name": "es6",
+  "version": "0.0.1",
+  "description": "rESistance is futile",
+  "scripts": {
+    "lint": "node node_modules/eslint/bin/eslint ."
+  },
+  "author": "Gianluca Esposito (g@esposi.to)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^2.8.0",
+    "eslint-plugin-import": "^1.6.0",
+    "eslint-plugin-jsx-a11y": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^8.0.0",
+    "eslint-plugin-react": "^5.0.1"
+  }
+}
